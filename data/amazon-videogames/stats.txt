@@ -1,0 +1,11 @@
+category: Video_Games
+k_core: 5
+implicit: True
+n_users: 94762
+n_items: 25612
+n_interactions: 814586
+n_train: 675879
+n_test: 138707
+sparsity: 0.000336
+test_ratio: 0.2
+seed: 2020
